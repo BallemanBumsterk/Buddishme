@@ -1,0 +1,2 @@
+# Buddishme
+Vores Buddhisme app
